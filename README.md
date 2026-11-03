@@ -6,8 +6,8 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE.md)
 ![Characters](https://img.shields.io/badge/characters-12-ff69b4)
-![Stickers](https://img.shields.io/badge/stickers-216-blue)
-![Format](https://img.shields.io/badge/format-PNG%20%C2%B7%20transparent-success)
+![Stickers](https://img.shields.io/badge/stickers-216%20%C3%97%202-blue)
+![Format](https://img.shields.io/badge/format-PNG%20%C2%B7%20transparent%20%2F%20white-success)
 ![Sizes](https://img.shields.io/badge/sizes-512%20%C2%B7%20240-informational)
 [![GitHub stars](https://img.shields.io/github/stars/ChengAoShen/LLM-chan-stickers?style=social)](https://github.com/ChengAoShen/LLM-chan-stickers/stargazers)
 
@@ -44,7 +44,7 @@ stickers/<character>/poses/512/01-writing.png ... 08-asleep.png
 stickers/textus/stickers/512/01-heart.png ... 08-cheer.png
 ```
 
-Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ). Claude-chan and ERNIE-chan have a second set of expressions in `expressions-alt/`.
+Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ), each twice: with a transparent background (`512/`, `240/`) and on white (`512-white/`, `240-white/`) for apps that show transparency as black. Claude-chan and ERNIE-chan have a second set of expressions in `expressions-alt/`.
 
 - **Expressions:** smile · calm · surprised · shy · pouting · giggle · focused · teary
 - **Poses:** writing · daydream · dozing · happy · surprised · curious · celebrate · asleep

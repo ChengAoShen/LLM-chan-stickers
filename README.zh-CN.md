@@ -6,8 +6,8 @@
 
 [![授权: CC BY-NC-SA 4.0](https://img.shields.io/badge/%E6%8E%88%E6%9D%83-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE.md)
 ![角色](https://img.shields.io/badge/%E8%A7%92%E8%89%B2-12-ff69b4)
-![表情](https://img.shields.io/badge/%E8%A1%A8%E6%83%85-216-blue)
-![格式](https://img.shields.io/badge/%E6%A0%BC%E5%BC%8F-PNG%20%C2%B7%20%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF-success)
+![表情](https://img.shields.io/badge/%E8%A1%A8%E6%83%85-216%20%C3%97%202-blue)
+![格式](https://img.shields.io/badge/%E6%A0%BC%E5%BC%8F-PNG%20%C2%B7%20%E9%80%8F%E6%98%8E%20%2F%20%E7%99%BD%E5%BA%95-success)
 ![尺寸](https://img.shields.io/badge/%E5%B0%BA%E5%AF%B8-512%20%C2%B7%20240-informational)
 [![GitHub stars](https://img.shields.io/github/stars/ChengAoShen/LLM-chan-stickers?style=social)](https://github.com/ChengAoShen/LLM-chan-stickers/stargazers)
 
@@ -44,7 +44,7 @@ stickers/<角色>/poses/512/01-writing.png ... 08-asleep.png
 stickers/textus/stickers/512/01-heart.png ... 08-cheer.png
 ```
 
-每张都有 512 × 512（Telegram、Discord）和 240 × 240（微信、QQ）两种尺寸。Claude 娘和文心一言娘在 `expressions-alt/` 里还有一套表情。
+每张都有 512 × 512（Telegram、Discord）和 240 × 240（微信、QQ）两种尺寸，各有两套：透明背景（`512/`、`240/`）和白底（`512-white/`、`240-white/`），后者用在会把透明显示成黑色的地方。Claude 娘和文心一言娘在 `expressions-alt/` 里还有一套表情。
 
 - **表情：** 微笑 · 平静 · 惊讶 · 害羞 · 鼓腮 · 偷笑 · 认真 · 委屈
 - **动作：** 写字 · 发呆 · 打盹 · 开心 · 惊讶 · 好奇 · 庆祝 · 睡着
