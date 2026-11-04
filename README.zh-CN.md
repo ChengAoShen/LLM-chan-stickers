@@ -44,7 +44,7 @@ stickers/<角色>/poses/512/01-writing.png ... 08-asleep.png
 stickers/textus/stickers/512/01-heart.png ... 08-cheer.png
 ```
 
-每张都有 512 × 512（Telegram、Discord）和 240 × 240（微信、QQ）两种尺寸，各有两套：透明背景（`512/`、`240/`）和白底（`512-white/`、`240-white/`），后者用在会把透明显示成黑色的地方。Claude 娘和文心一言娘在 `expressions-alt/` 里还有一套表情。
+每张都有 512 × 512（Telegram、Discord）和 240 × 240（微信、QQ）两种尺寸，各有两套：透明背景（`512/`、`240/`）和白底（`512-white/`、`240-white/`），后者用在会把透明显示成黑色的地方。Claude 娘和文心一言娘在 `expressions-alt/` 里还有一套表情。所有角色的动作都朝同一个方向（朝右），需要朝左时左右翻转即可。
 
 - **表情：** 微笑 · 平静 · 惊讶 · 害羞 · 鼓腮 · 偷笑 · 认真 · 委屈
 - **动作：** 写字 · 发呆 · 打盹 · 开心 · 惊讶 · 好奇 · 庆祝 · 睡着

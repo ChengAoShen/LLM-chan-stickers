@@ -44,7 +44,7 @@ stickers/<character>/poses/512/01-writing.png ... 08-asleep.png
 stickers/textus/stickers/512/01-heart.png ... 08-cheer.png
 ```
 
-Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ), each twice: with a transparent background (`512/`, `240/`) and on white (`512-white/`, `240-white/`) for apps that show transparency as black. Claude-chan and ERNIE-chan have a second set of expressions in `expressions-alt/`.
+Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ), each twice: with a transparent background (`512/`, `240/`) and on white (`512-white/`, `240-white/`) for apps that show transparency as black. Claude-chan and ERNIE-chan have a second set of expressions in `expressions-alt/`. Every character's poses face the same way, to the right: mirror one to face left.
 
 - **Expressions:** smile · calm · surprised · shy · pouting · giggle · focused · teary
 - **Poses:** writing · daydream · dozing · happy · surprised · curious · celebrate · asleep
