@@ -56,7 +56,7 @@ stickers/textus/stickers/512/01-heart.png ... 08-cheer.png
 - **角色设定：** 大模型娘的角色形象与原始设定来自 **[ZipZipPipe](https://space.bilibili.com/4168597)** 等社区画师，角色版权归原作者所有。
 - **参考设定图：** [lmy414/ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets) 和同人整理站 [蓝色大肥鱼.com](https://xn--pssy23gqgbz2d718b.com/)。
 - **本仓库的 Q 版图：** 由 [CatVinci Studio](https://catvinci.com) 参照上述设定，用 ChatGPT 的图像模型重绘。为做桌宠略有调整：GPT 娘的眼睛与其他角色统一，文心一言娘改为站姿。
-- **Textus 娘** 是 CatVinci Studio 的原创角色、[Textus](https://textus.catvinci.com) 的吉祥物，完整设定见 [CatVinci-Studio/textus-chan](https://github.com/CatVinci-Studio/textus-chan)。
+- **Textus 娘** 是 CatVinci Studio 的原创角色、[Textus](https://textus.md) 的吉祥物，完整设定见 [CatVinci-Studio/textus-chan](https://github.com/CatVinci-Studio/textus-chan)。
 
 本项目为非商业同人作品，与 OpenAI、Anthropic、Google、DeepSeek、智谱、字节跳动、MiniMax、月之暗面、阿里巴巴、xAI、百度均无关联，也未获其认可。角色的权利人如认为不妥，请提 Issue，我们会立即修改或删除。
 
