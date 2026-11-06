@@ -56,7 +56,7 @@ Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ
 - **Character designs:** the LLM-chan personas were designed by **[ZipZipPipe](https://space.bilibili.com/4168597)** and other community artists. Copyright in the characters stays with them.
 - **Reference sheets:** [lmy414/ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets) and the fan archive [蓝色大肥鱼.com](https://xn--pssy23gqgbz2d718b.com/).
 - **These chibi versions:** redrawn by [CatVinci Studio](https://catvinci.com) with ChatGPT's image model from those references. Two were adapted for a desk pet: GPT-chan has the same eyes as the others, and ERNIE-chan stands.
-- **Textus-chan** is an original character by CatVinci Studio, the mascot of [Textus](https://textus.catvinci.com). Her full character sheet is in [CatVinci-Studio/textus-chan](https://github.com/CatVinci-Studio/textus-chan).
+- **Textus-chan** is an original character by CatVinci Studio, the mascot of [Textus](https://textus.md). Her full character sheet is in [CatVinci-Studio/textus-chan](https://github.com/CatVinci-Studio/textus-chan).
 
 This is a non-commercial fan project. It is not affiliated with or endorsed by OpenAI, Anthropic, Google, DeepSeek, Zhipu, ByteDance, MiniMax, Moonshot AI, Alibaba, xAI or Baidu. If you hold rights to any of these characters and want something changed or removed, please open an issue and we will act on it right away.
 
