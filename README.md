@@ -6,7 +6,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE.md)
 ![Characters](https://img.shields.io/badge/characters-12-ff69b4)
-![Stickers](https://img.shields.io/badge/stickers-216%20%C3%97%202-blue)
+![Stickers](https://img.shields.io/badge/stickers-312%20%C3%97%202-blue)
 ![Format](https://img.shields.io/badge/format-PNG%20%C2%B7%20transparent%20%2F%20white-success)
 ![Sizes](https://img.shields.io/badge/sizes-512%20%C2%B7%20240-informational)
 [![GitHub stars](https://img.shields.io/github/stars/ChengAoShen/LLM-chan-stickers?style=social)](https://github.com/ChengAoShen/LLM-chan-stickers/stargazers)
@@ -17,34 +17,36 @@ Chibi stickers of the **LLM-chan** - the community's anime personas of large lan
 
 </div>
 
-Eight expressions and eight poses for each character, on transparent backgrounds, ready for Telegram, Discord, Slack, WeChat or QQ.
+Eight expressions and eight poses for each character, the poses drawn three ways (facing left, facing right and facing the viewer), on transparent backgrounds, ready for Telegram, Discord, Slack, WeChat or QQ.
 
 ## Characters
 
-| | Persona | Expressions | Poses |
-|---|---|---|---|
-| Textus-chan | Textus (CatVinci Studio) | ![](previews/textus-expressions.png) | ![](previews/textus-poses.png) |
-| DeepSeek-chan | DeepSeek | ![](previews/deepseek-expressions.png) | ![](previews/deepseek-poses.png) |
-| GLM-chan | Zhipu GLM | ![](previews/glm-expressions.png) | ![](previews/glm-poses.png) |
-| Doubao Seed-chan | Doubao | ![](previews/doubao-expressions.png) | ![](previews/doubao-poses.png) |
-| MiniMax-chan | MiniMax | ![](previews/minimax-expressions.png) | ![](previews/minimax-poses.png) |
-| Kimi-chan | Kimi (Moonshot) | ![](previews/kimi-expressions.png) | ![](previews/kimi-poses.png) |
-| Claude-chan | Claude | ![](previews/claude-expressions.png) | ![](previews/claude-poses.png) |
-| GPT-chan | GPT | ![](previews/gpt-expressions.png) | ![](previews/gpt-poses.png) |
-| Gemini-chan | Gemini | ![](previews/gemini-expressions.png) | ![](previews/gemini-poses.png) |
-| Qwen-chan | Qwen | ![](previews/qwen-expressions.png) | ![](previews/qwen-poses.png) |
-| Grok-chan | Grok | ![](previews/grok-expressions.png) | ![](previews/grok-poses.png) |
-| ERNIE-chan | ERNIE (Wenxin) | ![](previews/wenxin-expressions.png) | ![](previews/wenxin-poses.png) |
+| | Persona | Expressions | Poses | Poses, front |
+|---|---|---|---|---|
+| Textus-chan | Textus (CatVinci Studio) | ![](previews/textus-expressions.png) | ![](previews/textus-poses.png) | ![](previews/textus-poses-front.png) |
+| DeepSeek-chan | DeepSeek | ![](previews/deepseek-expressions.png) | ![](previews/deepseek-poses.png) | ![](previews/deepseek-poses-front.png) |
+| GLM-chan | Zhipu GLM | ![](previews/glm-expressions.png) | ![](previews/glm-poses.png) | ![](previews/glm-poses-front.png) |
+| Doubao Seed-chan | Doubao | ![](previews/doubao-expressions.png) | ![](previews/doubao-poses.png) | ![](previews/doubao-poses-front.png) |
+| MiniMax-chan | MiniMax | ![](previews/minimax-expressions.png) | ![](previews/minimax-poses.png) | ![](previews/minimax-poses-front.png) |
+| Kimi-chan | Kimi (Moonshot) | ![](previews/kimi-expressions.png) | ![](previews/kimi-poses.png) | ![](previews/kimi-poses-front.png) |
+| Claude-chan | Claude | ![](previews/claude-expressions.png) | ![](previews/claude-poses.png) | ![](previews/claude-poses-front.png) |
+| GPT-chan | GPT | ![](previews/gpt-expressions.png) | ![](previews/gpt-poses.png) | ![](previews/gpt-poses-front.png) |
+| Gemini-chan | Gemini | ![](previews/gemini-expressions.png) | ![](previews/gemini-poses.png) | ![](previews/gemini-poses-front.png) |
+| Qwen-chan | Qwen | ![](previews/qwen-expressions.png) | ![](previews/qwen-poses.png) | ![](previews/qwen-poses-front.png) |
+| Grok-chan | Grok | ![](previews/grok-expressions.png) | ![](previews/grok-poses.png) | ![](previews/grok-poses-front.png) |
+| ERNIE-chan | ERNIE (Wenxin) | ![](previews/wenxin-expressions.png) | ![](previews/wenxin-poses.png) | ![](previews/wenxin-poses-front.png) |
 
 ## Files
 
 ```
 stickers/<character>/expressions/512/01-smile.png ... 08-teary.png
 stickers/<character>/poses/512/01-writing.png ... 08-asleep.png
+stickers/<character>/poses-right/512/01-writing.png ... 08-asleep.png
+stickers/<character>/poses-front/512/01-writing.png ... 08-asleep.png
 stickers/textus/stickers/512/01-heart.png ... 08-cheer.png
 ```
 
-Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ), each twice: with a transparent background (`512/`, `240/`) and on white (`512-white/`, `240-white/`) for apps that show transparency as black. Claude-chan and ERNIE-chan have a second set of expressions in `expressions-alt/`. Every character's poses face the same way, to the right: mirror one to face left.
+Every sticker comes in 512 × 512 (Telegram, Discord) and 240 × 240 (WeChat, QQ), each twice: with a transparent background (`512/`, `240/`) and on white (`512-white/`, `240-white/`) for apps that show transparency as black. Claude-chan and ERNIE-chan have a second set of expressions in `expressions-alt/`. Poses come in three views of the same eight poses: `poses/` faces left, `poses-right/` faces right, and `poses-front/` faces the viewer.
 
 - **Expressions:** smile · calm · surprised · shy · pouting · giggle · focused · teary
 - **Poses:** writing · daydream · dozing · happy · surprised · curious · celebrate · asleep
